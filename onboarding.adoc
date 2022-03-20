@@ -4,28 +4,31 @@ Onboarding
 :Email:     mark.smith@hyperoceanic.com
 :Date:      2022 March 19
 :Revision:  0.01
-
 // Required for Github
 :toc: macro
 :toclevels: 2
 
-<aside>
-💡 This guide summarises the what, how and why of making the experience as pain-free for both the new person and for me. Some of it is more relevant to 'in the office' vs working from home. Adapt accordingly.
 
-</aside>
+.Summary
+****
+This is a combined guide/checklist for onboarding new members into software development teams. Some of it is more relevant to 'in the office' vs working from home. Other parts are more relevant for more junior developers.
+****
 
-> For many years I was a contractor which meant joining new organisations quite frequently. I've had a mixed bag of onboarding experiences during that time. As a tech/team lead or scrum master I've been on the other side of that mirror a few times as well, bringing in a mix of junior, senior and contract developers and testers into my team and the organisation I was working for.
-> 
+For many years I was a contractor which meant joining new organisations quite frequently. I had a mixed bag of onboarding experiences during that time, and generally the subsequent work experience followed the impression gained during onboarding.
+
+As a tech/team lead or scrum master I've been on the other side of the equation a few times as well, bringing in a mix of junior, senior and contract developers and testers into my team and the organisation I was working for.
+
+I have tried to do a decent job and got some recognition for the quality of onboarding my teams provided, especially for recent graduates and new entrants to the industry.  
 
 ## Why onboarding matters
 
-The bigger the project the harder and longer it takes people to become productive. You need to learn -
+The bigger the project the harder and longer it takes people to become productive. You need to learn about 
 
-- Existing technical solution
-- Business knowledge
-- People on the project
-- The way the project works, it’s flow
-- Tools and software used on the project
+* Why and how the business functions,
+* The people on the project and how they work together,
+* The existing or proposed technical solution,
+* The way the project works, its flow,
+* The tools and software used on the project.
 
 At the same time, the more important it becomes to get productive as quickly as possible alongside the feeling of becoming a valued member of the team and the organization.
 
