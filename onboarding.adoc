@@ -53,7 +53,7 @@ This is a list of everything you're going to give or send your new joiner.
 ** [ ]  Your review and deployment process
 ** [ ]  Visual Studio subscription if necessary.
 
-# Timeline
+## Timeline
 
 This is a combined checklist and reminder of when to do what. I tend to print it out and use a paper copy, writing the date when I ticked something as well as scribbling anything else that comes to mind. 
 
@@ -110,7 +110,7 @@ The goal for this week is to keep the new person on the 'glide path' to day 1.
 - [ ]  Keep an eye on that 'first task' to make sure there are no extraneous items blocking progress.
 
 ## End of Week 1
-
+TIP
 - [ ]  Review the week with the new starter.
 - [ ]  Review the 'first task' and confirm it got done. If not, it is on me rather than the new joiner.
 - [ ]  Agree a couple of OKRs for the rest of their first month. It might be useful to review what's the 'one job' that the person has been hired to do and to schedule a review of that for the end of month 1. The goal here is to make sure you and they are aligned on what the expectation is.
@@ -118,6 +118,8 @@ The goal for this week is to keep the new person on the 'glide path' to day 1.
 - [ ]  Make a list with them of the other stuff they need to learn. Remind them that they can use their calendar to block out time to learn and that you can help them identify the materials and people who can help.
 - [ ]  Get feedback on the process from the new starter*
 - [ ]  Again, feedback up the totem pole.
+
+TIP: Senior Engineers can offer valuable feedback on your onboarding process. Don't neglect to ask them for ways to improve it.
 
 ## End of Month 1
 
