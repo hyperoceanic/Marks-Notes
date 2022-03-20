@@ -83,6 +83,8 @@ The goal for this week is to keep the new person on the "glide path" to day 1.
 
 ## Day 1
 
+TIP: Your day 1 all about setting your new team member up for success, building on th prep work you did already.
+
 . Meet new person at the agreed location. (HR might manage the 'welcome' experience.) If possible arrive a few minutes early - they might be early or possibly late depending on their new commute experience. You on the other hand... Bring something to keep yourself busy if necessary.
 . Get whatever goodies from HR are needed. If there's a security fob go and check it and make sure the new joiner knows how it works for the car park, the building and the office / level.
 . **Introduce them to the team**, on your way to reviewing the materials list.
@@ -97,6 +99,8 @@ The goal for this week is to keep the new person on the "glide path" to day 1.
 . Feed back up the totem pole regarding how day 1 went.
 
 ## Day 2
+
+TIP: Your day 1 all about setting your new team member up for success, building on th prep work you did already.
 
 . First thing, handle any questions or HR business.
 . Get feedback on the process from the new starter.
@@ -113,35 +117,35 @@ The goal for this week is to keep the new person on the "glide path" to day 1.
 
 ## End of Week 1
 TIP
-- [ ]  Review the week with the new starter.
-- [ ]  Review the 'first task' and confirm it got done. If not, it is on me rather than the new joiner.
-- [ ]  Agree a couple of OKRs for the rest of their first month. It might be useful to review what's the 'one job' that the person has been hired to do and to schedule a review of that for the end of month 1. The goal here is to make sure you and they are aligned on what the expectation is.
-- [ ]  Confirm all of the HR stuff has been dealt with
-- [ ]  Make a list with them of the other stuff they need to learn. Remind them that they can use their calendar to block out time to learn and that you can help them identify the materials and people who can help.
-- [ ]  Get feedback on the process from the new starter*
-- [ ]  Again, feedback up the totem pole.
+. Review the week with the new starter.
+. Review the 'first task' and confirm it got done. If not, it is on me rather than the new joiner.
+. Agree a couple of OKRs for the rest of their first month. It might be useful to review what's the 'one job' that the person has been hired to do and to schedule a review of that for the end of month 1. The goal here is to make sure you and they are aligned on what the expectation is.
+. Confirm all of the HR stuff has been dealt with
+. Make a list with them of the other stuff they need to learn. Remind them that they can use their calendar to block out time to learn and that you can help them identify the materials and people who can help.
+. Get feedback on the process from the new starter*
+. Again, feedback up the totem pole.
 
 TIP: Senior Engineers can offer valuable feedback on your onboarding process. Don't neglect to ask them for ways to improve it.
 
 ## End of Month 1
 
-- [ ]  Review the month with the new starter
-- [ ]  Get feedback on the process from them
-- [ ]  Review how they're dealing with their 'one job'. Quality, timeliness. If it is working out then plan to add some non-core stuff to get them started on their pathway within the organisation.
+. Review the month with the new starter
+. Get feedback on the process from them
+. Review how they're dealing with their 'one job'. Quality, timeliness. If it is working out then plan to add some non-core stuff to get them started on their pathway within the organisation.
 
 ## 🎭 Making sure it's all working out
 
 Remember the new starter is on probation. This means a couple of things:
 
-1. They are wanting to impress but at the same time worried about making the grade
-2. Unused to the implicit stuff you and everybody else 'just seems to know'.
-3. They might not be the right person for the job. 
+. They are wanting to impress but at the same time worried about making the grade
+. Not used to the implicit stuff you and everybody else 'just seems to know'.
+. They might not be the right person for the job. 
 
 At the end of every day make a list of everything that went well, and everything that went the other way. Track what you did about it. If they're not suitable you need to be able to defend every point on your list.
 
 ## * Getting feedback on the process from the new starter
 
-1. What's going well
-2. What's not going well - how can we improve it for you?
-3. Scale of 1..10 how are we making you feel appreciated
-4. What can we add or remove to make it work better.
+. What's going well
+. What's not going well - how can we improve it for you?
+. Scale of 1..10 how are we making you feel appreciated
+ . What can we add or remove to make it work better.
