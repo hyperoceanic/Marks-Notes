@@ -5,6 +5,8 @@ Onboarding
 :Date:      2022 March 19
 :Revision:  0.01
 
+:toc:
+
 <aside>
 💡 This guide summarises the what, how and why of making the experience as pain-free for both the new person and for me. Some of it is more relevant to 'in the office' vs working from home. Adapt accordingly.
 
