@@ -13,7 +13,7 @@
 This is a combined guide/checklist for onboarding new members into software development teams. Some of it is more relevant to 'in the office' vs working from home. Other parts are more relevant for more junior developers.
 ****
 
-For many years I was a contractor which meant joining new organisations quite frequently. I had a mixed bag of onboarding experiences during that time, and generally the subsequent work experience followed the impression gained during onboarding.
+For many years I was a contractor which meant joining new organizations quite frequently. I had a mixed bag of onboarding experiences during that time, and generally the subsequent work experience followed the impression gained during onboarding.
 
 As a tech/team lead or scrum master I've been on the other side of the equation a few times as well, bringing in a mix of junior, senior and contract developers and testers into my team and the organisation I was working for.
 
@@ -43,6 +43,8 @@ A good relationship with HR can smooth the onboarding path considerably. Their g
 This is a list of everything you're going to give or send your new joiner. 
 
 * **Printed** maps of where everything is. Highlight the coffee area, the loos. If your team has fixed desks, write the name of everyone in your team and in the immediately adjacent ones on it. Include people 1 and 2 steps up the org chart as well.
+* Login to HR system. Give them a few minutes to check their details and how to book time off. If there are any HR-required activities here, get them done now. 
+* Likewise, there's going to be some online training to be done. Make sure they're aware how to get to it, what needs to be done this week and what can wait for next week or beyond.
 * **Printed** copy of the team charter. You want them to focus on this early.
 * The Org Chart, with their name on it. The need to know where they fit into the organization.
 * Email with info about all the key players your team interacts with.
