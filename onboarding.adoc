@@ -19,7 +19,7 @@ As a tech/team lead or scrum master I've been on the other side of the equation 
 
 I have tried to do a decent job and got some recognition for the quality of onboarding my teams provided, especially for recent graduates and new entrants to the industry.  
 
-## Why onboarding matters
+== Why onboarding matters
 
 The bigger the project the harder and longer it takes people to become productive. You need to learn about 
 
@@ -38,7 +38,7 @@ A good onboarding plan can help the new joiner get a grasp on the above.
 A good relationship with HR can smooth the onboarding path considerably. Their goals and yours are aligned on getting the new person inducted into the organisation as quickly as possible. Like you they're overloaded with work, and you're much better off owning as much of the process as you can.
 ****
 
-## The Materials List
+== The Materials List
 
 This is a list of everything you're going to give or send your new joiner. 
 
@@ -57,17 +57,17 @@ This is a list of everything you're going to give or send your new joiner.
 ** Your review and deployment process
 ** Visual Studio subscription if necessary.
 
-## Timeline
+== Timeline
 
 This is a combined checklist and reminder of when to do what. I tend to print it out and use a paper copy, writing the date when I ticked something as well as scribbling anything else that comes to mind. 
 
-### After Offer Acceptance
+=== After Offer Acceptance
 
-### Month Before
+=== Month Before
 
 * Ping the new joiner to remind them you're looking forward to them joining your team.
 
-### Week Before
+=== Week Before
 
 The goal for this week is to keep the new person on the "glide path" to day 1.
 
@@ -75,7 +75,7 @@ The goal for this week is to keep the new person on the "glide path" to day 1.
 * Check with HR
 ** Who is greeting the new joiner
 ** Agree arrival Date, Time and Location. Inform HR or vice versa.
-* Clear calendar for -30 mins to +2 Hours at a minimum.
+* Clear calendar for -30 minutes to +2 Hours at a minimum.
 * Review new joiners CV and LinkedIn profile.
 * Review onboarding docs from HR.
 * Prepare the materials list!
@@ -83,7 +83,7 @@ The goal for this week is to keep the new person on the "glide path" to day 1.
 * Work out what you're going to ask them to pick up, and have in mind what information they need and where they'll get it. The goal here is for them to do some meaningful work so that they can get familiar with process, personalities and tools, so pick something relatively straightforward in nature. The goal here is that this should be 'finished' by the end of the week for whatever definition of finished you use. For my current team, the answer is 'in production'.
 * Remember to incorporate the new person into your sprint plan - tasks and capacity!
 
-## Day 1
+== Day 1
 
 TIP: Your day 1 all about setting your new team member up for success, building on th prep work you did already.
 
@@ -100,7 +100,7 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 . Set the goal of completing all of the HR stuff that the new joiner needs to do. There will be several hours worth of videos to watch.
 . Feed back up the totem pole regarding how day 1 went.
 
-## Day 2
+== Day 2
 
 TIP: Your day 1 all about setting your new team member up for success, building on th prep work you did already.
 
@@ -109,7 +109,7 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 . Arrange for a couple of other people from the team to take them for lunch.
 . Check progress on first task.
 
-## Week 1
+== Week 1
 
 . Informal chat with onboarding buddy to identify any areas that need looking into.
 . Run those review sessions! Do them away from the team - these are 1:1s after all.
@@ -117,7 +117,7 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 . How your current work fits into that picture.
 . Keep an eye on that 'first task' to make sure there are no extraneous items blocking progress.
 
-## End of Week 1
+== End of Week 1
 TIP
 . Review the week with the new starter.
 . Review the 'first task' and confirm it got done. If not, it is on me rather than the new joiner.
@@ -129,13 +129,13 @@ TIP
 
 TIP: Senior Engineers can offer valuable feedback on your onboarding process. Don't neglect to ask them for ways to improve it.
 
-## End of Month 1
+== End of Month 1
 
 . Review the month with the new starter
 . Get feedback on the process from them
 . Review how they're dealing with their 'one job'. Quality, timeliness. If it is working out then plan to add some non-core stuff to get them started on their pathway within the organisation.
 
-## 🎭 Making sure it's all working out
+== 🎭 Making sure it's all working out
 
 Remember the new starter is on probation. This means a couple of things:
 
@@ -145,7 +145,7 @@ Remember the new starter is on probation. This means a couple of things:
 
 At the end of every day make a list of everything that went well, and everything that went the other way. Track what you did about it. If they're not suitable you need to be able to defend every point on your list.
 
-## * Getting feedback on the process from the new starter
+== Getting feedback on the process from the new starter
 
 . What's going well
 . What's not going well - how can we improve it for you?
